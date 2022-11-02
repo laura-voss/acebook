@@ -18,10 +18,12 @@
 
 For the penultimate engineering project during Weeks 8 and 9 of the Makers Academy hybrid course, we were tasked with developing a [Facebook](https://en-gb.facebook.com/) clone, known as Acebook. Within a team of 7 developers we developed this version that we're proud to present.
 <br>
+<br>
 
 ## Production
 
 https://lacebook.herokuapp.com/
+<br>
 <br>
 
 ## Demo
