@@ -137,7 +137,7 @@ We used a [Trello](https://trello.com/b/jFmua5rj/lukeingforsuggestions) board to
 
 * Standups every morning at 10:00
 * Regro at 5:30 every evening
-* Pair programming throughotu the whole project
+* Pair programming throughout the whole project
 * Regular check-ins with team members to make sure nobody was left behind
 * Trello board for distributing work and staying on track
 <br>
