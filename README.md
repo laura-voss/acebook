@@ -20,12 +20,12 @@ For the penultimate engineering project during Weeks 8 and 9 of the Makers Acade
 
 
 ## Production
-------
+
 https://lacebook.herokuapp.com/
 
 
 ## Demo
--------
+
 ### Home page
 ![Homepage](readme_images/homepage.png)
 
@@ -36,12 +36,16 @@ https://lacebook.herokuapp.com/
 ![Login](readme_images/login.png)
 
 ### Timeline
+![Timeline](readme_images/timeline.png)
 
 ### Profile page
+![Profile](readme_images/profile.png)
+
+### Find Friend page
+![Friend](readme_images/friend.png)
 
 
 ## Technologies Used
-------
 
 - [Express](https://expressjs.com/) web framework for Node.js.
 - [Nodemon](https://nodemon.io/) to reload the server automatically.
