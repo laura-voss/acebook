@@ -27,12 +27,13 @@ https://lacebook.herokuapp.com/
 ## Demo
 -------
 ### Home page
-[screenshot]
-
-### Login page
-[screenshot]
+![Homepage](readme_images/homepage.png)
 
 ### Sign up page
+![Signup](readme_images/signup.png)
+
+### Login page
+![Login](readme_images/login.png)
 
 ### Timeline
 
