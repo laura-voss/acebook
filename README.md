@@ -12,38 +12,38 @@
 - [Luiza Gretzk](https://github.com/LGretzk)
 - [Luke Storey](https://github.com/lukestorey95)
 - [Stevie Spiegl](https://github.com/S-Spiegl)
-
+<br>
 
 ## Project Description
 
 For the penultimate engineering project during Weeks 8 and 9 of the Makers Academy hybrid course, we were tasked with developing a [Facebook](https://en-gb.facebook.com/) clone, known as Acebook. Within a team of 7 developers we developed this version that we're proud to present.
-
+<br>
 
 ## Production
 
 https://lacebook.herokuapp.com/
-
+<br>
 
 ## Demo
 
-### Home page
+#### Home page
 ![Homepage](readme_images/homepage.png)
 
-### Sign up page
+#### Sign up page
 ![Signup](readme_images/signup.png)
 
-### Login page
+#### Login page
 ![Login](readme_images/login.png)
 
-### Timeline
+#### Timeline
 ![Timeline](readme_images/timeline.png)
 
-### Profile page
+#### Profile page
 ![Profile](readme_images/profile.png)
 
-### Find Friend page
+#### Find Friend page
 ![Friend](readme_images/friend.png)
-
+<br>
 
 ## Technologies Used
 
@@ -55,7 +55,7 @@ https://lacebook.herokuapp.com/
 - [Jest](https://jestjs.io/) for testing.
 - [Cypress](https://www.cypress.io/) for end-to-end testing.
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) for styling of the webpages.
-
+<br>
 
 ## How to run locally
 
@@ -123,7 +123,7 @@ so that integration tests do not interact with the development server.
   npm run test:unit         # unit tests only
   npm run test:integration  # integration tests only
   ```
-
+<br>
 
 ## Card wall
 
