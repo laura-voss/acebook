@@ -46,6 +46,7 @@ https://lacebook.herokuapp.com/
 #### Find Friend page
 ![Friend](readme_images/friend.png)
 <br>
+<br>
 
 ## Technologies Used
 
@@ -130,7 +131,7 @@ so that integration tests do not interact with the development server.
 ## Card wall
 
 We used a [Trello](https://trello.com/b/jFmua5rj/lukeingforsuggestions) board to keep track of the features we want to implement. We organised tickets amongst the team and moved the tickets accordingly to demonstrate at what stage that feature's at (To do/In progress/In review etc.).
-
+<br>
 
 ## Team approach
 
@@ -139,10 +140,11 @@ We used a [Trello](https://trello.com/b/jFmua5rj/lukeingforsuggestions) board to
 * Pair programming throughotu the whole project
 * Regular check-ins with team members to make sure nobody was left behind
 * Trello board for distributing work and staying on track
+<br>
 
 ## User stories
 
-### Login
+#### Login
 ```
 As a user,
 so that I can join Acebook's vibrant community,
@@ -160,7 +162,7 @@ As a user,
 so I can choose how other users identify me,
 I would like to be able to choose a username to display.
 ```
-### Posts
+#### Posts
 ```
 As a user, 
 so that I can express myself,
@@ -185,7 +187,7 @@ so that I can share photos,
 I would like to be able to publish photos.
 ```
 
-### Interactions
+#### Interactions
 ```
 As a user,
 so that I can express how I feel,
@@ -231,6 +233,7 @@ I would like to be able to accept friend requests from other users.
 * User can sign up, log in and log out
 * User can post a post and delete it
 * User can see all posts in reverse chronological order
+<br>
 
 
 ## Wireframes
@@ -248,6 +251,7 @@ I would like to be able to accept friend requests from other users.
 * Sign up with an already used email
 * Sign in with invalid input
 * Try to access timeline or profile page when logged out
+<br>
 
 ## Future improvements
 
