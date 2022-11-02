@@ -4,7 +4,7 @@
 
 
 ## Contributors
--------
+
 - [Alexandros Papagiannis](https://github.com/Alexandros91)
 - [Erlantz Ramos Sanchez](https://github.com/ErlantzR)
 - [Farzan Imanzadeh](https://github.com/Farzan-I)
@@ -15,7 +15,7 @@
 
 
 ## Project Description
-------
+
 For the penultimate engineering project during Weeks 8 and 9 of the Makers Academy hybrid course, we were tasked with developing a [Facebook](https://en-gb.facebook.com/) clone, known as Acebook. Within a team of 7 developers we developed this version that we're proud to present.
 
 
@@ -58,7 +58,7 @@ https://lacebook.herokuapp.com/
 
 
 ## How to run locally
---------
+
 ### Install Node.js
 
 1. Install Node Version Manager (NVM)
@@ -126,12 +126,12 @@ so that integration tests do not interact with the development server.
 
 
 ## Card wall
---------
+
 We used a [Trello](https://trello.com/b/jFmua5rj/lukeingforsuggestions) board to keep track of the features we want to implement. We organised tickets amongst the team and moved the tickets accordingly to demonstrate at what stage that feature's at (To do/In progress/In review etc.).
 
 
 ## Team approach
----------
+
 * Standups every morning at 10:00
 * Regro at 5:30 every evening
 * Pair programming throughotu the whole project
@@ -139,7 +139,7 @@ We used a [Trello](https://trello.com/b/jFmua5rj/lukeingforsuggestions) board to
 * Trello board for distributing work and staying on track
 
 ## User stories
--------
+
 ### Login
 ```
 As a user,
@@ -210,7 +210,7 @@ I would like to be able to see who commented on posts.
 
 
 ## Further User Stories
--------
+
 ```
 As a user,
 so that I can have friends,
@@ -225,14 +225,14 @@ I would like to be able to accept friend requests from other users.
 
 
 ## MVP
-------
+
 * User can sign up, log in and log out
 * User can post a post and delete it
 * User can see all posts in reverse chronological order
 
 
 ## Wireframes
--------
+
 ![Wireframe 1](public/images/New%20Wireframe%201.png)
 ![Wireframe 2](public/images/New%20Wireframe%202.png)
 ![Wireframe 3](public/images/New%20Wireframe%203.png)
@@ -248,6 +248,6 @@ I would like to be able to accept friend requests from other users.
 * Try to access timeline or profile page when logged out
 
 ## Future improvements
---------
+
 * User can see only friends' posts on the timeline
 * User can like and respond to individual comments
